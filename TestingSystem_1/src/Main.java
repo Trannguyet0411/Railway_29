@@ -19,5 +19,6 @@ public class Main {
 		department2.setName("Phòng Kinh Doanh");
 
 		department2.printDepartment();
+		System.out.println("jfhkjhsdgfjkhs");
 	}
 }
